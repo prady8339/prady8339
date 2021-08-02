@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center" style="color:red">Hello , This is Pradyumna.</h1>
+<h1 align="center">Hello , This is Pradyumna.</h1>
 
 
 
