@@ -4,10 +4,6 @@
 <h1 align="center">Hello , This is Pradyumna.</h1>
 
 
-- 🔭 I’m currently working on web development projects.
-- 🌱 I’m currently learning web development.
-- 💬 Ask me about tech related stuffs.
-- 📫 How to reach me: singhprady8339@gmail.com
 
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
