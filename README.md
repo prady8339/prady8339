@@ -3,7 +3,9 @@
 
 <h1 align="center">Hello , This is Pradyumna.</h1>
 
-
+## [Pradyumna Singh](https://)
+![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+![VisitorCount](https://profile-counter.glitch.me/prady8339/count.svg)
 
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
