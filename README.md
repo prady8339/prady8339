@@ -18,7 +18,5 @@
   <img src="https://github.com/prady8339/prady8339/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-<p align="center">
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
 ![VisitorCount](https://profile-counter.glitch.me/prady8339/count.svg)
-</p>
