@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hello , This is <a href="https://prady8339.github.io/singhprady/">Pradyumna.</a></h1>
-![ Namaste GIFt](resources/GIF-ball.gif)
+
 
 <h2 align="center"> Reach out to me on >> </h2>
 <p align="center">
