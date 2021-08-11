@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Code-Electron-informational?style=flat&logo=electron&logoColor=white&color=61D9FA&labelColor=20232A"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/Shell-Terminal-informational?style=flat&logo=powershell&logoColor=white&color=61D9FA&labelColor=20232A"/>
   <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=61D9FA&labelColor=20232A"/>
 </p>  
 <p align="center">
