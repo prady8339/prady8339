@@ -18,7 +18,7 @@
 ## 🔧 Technologies & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/OS-Manjaro-informational?style=flat&logo=manjaro&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=61D9FA&labelColor=20232A"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=61D9FA&labelColor=20232A"/>
