@@ -14,7 +14,7 @@
 
 </p>
 
- 🔧 Technologies & Tools
+ ##🔧 Technologies & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=61D9FA&labelColor=20232A"/>
   <img src="https://img.shields.io/badge/OS-Manjaro-informational?style=flat&logo=manjaro&logoColor=white&color=61D9FA&labelColor=20232A"/>
