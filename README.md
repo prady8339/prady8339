@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=61D9FA&labelColor=20232A"/>
   
   <img src="https://img.shields.io/badge/Tools-Chrome-informational?style=flat&logo=chrome&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Tools-V8-informational?style=flat&logo=V8&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/Tools-Safari-informational?style=flat&logo=safari&logoColor=white&color=61D9FA&labelColor=20232A"/>
   <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=61D9FA&labelColor=20232A"/>
 </p>
 <p align="center">
