@@ -25,15 +25,12 @@
   
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=61D9FA&labelColor=20232A"/>
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=61D9FA&labelColor=20232A"/>
   <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=61D9FA&labelColor=20232A"/>
   <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=61D9FA&labelColor=20232A"/>
   <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61D9FA&labelColor=20232A"/>
   <img src="https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=61D9FA&labelColor=20232A"/>
   <img src="https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node.js&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Code-Electron-informational?style=flat&logo=electron&logoColor=white&color=61D9FA&labelColor=20232A"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Shell-Terminal-informational?style=flat&logo=powershell&logoColor=white&color=61D9FA&labelColor=20232A"/>
