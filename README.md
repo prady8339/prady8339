@@ -62,4 +62,4 @@
 </p>
 
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
-![VisitorCount](https://profile-counter.glitch.me/prady8339/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/ar7aditya/count.svg)
