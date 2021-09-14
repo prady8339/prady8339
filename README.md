@@ -7,7 +7,7 @@
 
 <p align="center">
   
-  <h3 align="center">Watch out this freaking snake eating <a target="_blank"href="https://github.com/prady8339">mine</a> & <a target="_blank"href="https://github.com/ar7aditya">Aditya's</a> contribution ZzzzZzz. </h3>
+  <h3 align="center">Watch out this freaking snake eating my contribution ZzzzZzz. </h3>
   <img src="https://github.com/prady8339/prady8339/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 <h3 align="left"> || Reach out to me on</h3>
