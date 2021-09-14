@@ -9,7 +9,8 @@
   
 </p>
 
-<p align="left">
+<p align="center">
+  <h3>Watch out this freaking snake eating my contribution . Zzzzzz </h3>
   <img src="https://github.com/prady8339/prady8339/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
