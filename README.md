@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello , This is Pradyumna.</a></h1>
 
-<img src="resources/gokuXB.png" alt="goku">
+<img src="resources/gokuX-black-90.png.png" alt="goku">
 
 
 
